@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+__pycache__/
+*.pyc
+outputs/
+.DS_Store
+annual-enterprise-survey-2025-financial-year-provisional-size-bands.csv
+preview.png
